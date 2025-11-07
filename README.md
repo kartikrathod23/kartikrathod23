@@ -101,7 +101,7 @@
 ## 🌐 **Connect with Me**
 
 <p align="left">
-  <a href="[https://linkedin.com/in/kartikrathod23](https://www.linkedin.com/in/kartik-rathod-3513172a8/)" target="_blank">
+  <a href="https://www.linkedin.com/in/kartik-rathod-3513172a8/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/kartikrathod23" target="_blank">
